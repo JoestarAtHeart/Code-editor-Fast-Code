@@ -17,4 +17,4 @@
 
   - [Основная страница](https://joestaratheart.github.io/Code-editor-Fast-Code/)
 
-  - [Страница Login](https://joestaratheart.github.io/Fast-Code-Login/)
+  - [Страница Login]([https://joestaratheart.github.io/Fast-Code-Login/](https://joestaratheart.github.io/Code-editor-Fast-Code/pages/login.html))
